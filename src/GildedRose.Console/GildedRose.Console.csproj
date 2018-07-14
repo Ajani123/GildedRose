@@ -41,8 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Inn\InnInventoryUpdater.cs" />
+    <Compile Include="Inn\Item.cs" />
+    <Compile Include="Loggers\Logger.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utils\ExtraMath.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
