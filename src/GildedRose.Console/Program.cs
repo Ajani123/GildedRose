@@ -1,5 +1,4 @@
-﻿#define DEBUG
-using GildedRose.Console.Inn;
+﻿using GildedRose.Console.Inn;
 using System.Collections.Generic;
 
 namespace GildedRose.Console
